@@ -1,1 +1,2 @@
-# Text-em
+# Text'em
+A chatting application using socket.io
